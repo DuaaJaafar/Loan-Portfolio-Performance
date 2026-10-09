@@ -1,56 +1,63 @@
+<div align="center">
 
-# 📊 Loan Portfolio Performance Dashboard (Power BI)
+# 💳 Loan Portfolio Performance Dashboard
+### Executive Financial Analytics & Credit Risk Monitoring
 
-An executive-level Business Intelligence dashboard designed to monitor loan disbursements, track repayment behaviors, and evaluate overall credit portfolio health.
+<br/>
 
----
-
-## 📌 Dashboard Overview
-
-<img width="1156" height="650" alt="loan_protfolio_performance" src="https://github.com/user-attachments/assets/1aaaf6cd-9302-47a0-88f7-4612971fdf7b" />
+<img width="1228" height="683" alt="Screenshot 2026-10-09 223218" src="https://github.com/user-attachments/assets/c06cf981-5a86-449d-a8db-498c1b7a3e98" />
 
 
----
+<br/><br/>
 
-## 🔍 Key Performance Indicators (KPIs)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge)](#)
+[![Power Query](https://img.shields.io/badge/Power_Query-ETL-green?style=for-the-badge)](#)
 
-- *Total Disbursed:*
-*$99M* in total financing across portfolios.
-- *Total Transactions:*
-*2K+* loan repayment transactions monitored.
-- *On-Time Repayment Rate:*
-*93.40%*, reflecting solid portfolio quality and minimal delinquency risk.
+</div>
 
 ---
 
-## 📈 Visual Breakdown & Insights
-
-1. *Repayment Status Distribution (Donut Chart):*
-   - Segregates borrowers into *On Time (93.40%)* versus *Late* payments to quickly identify at-risk credit segments.
-
-2. *Revenue Trend (Line Chart):*
-   - Tracks annual revenue trajectory between *2019 and 2022*, illustrating growth patterns and portfolio cash flows.
-
-3. *Disbursements by Payment Mode (Column Chart):*
-   - Analyzes distribution across multiple transaction channels (Bank Transfer, Card, Cash, UPI) to optimize payment collections and channel efficiency.
-
-4. *Dynamic Filters (Slicers):*
-   - Interactive filtering by *Repayment Status* (On Time / Late) and *Year* (2019 to 2022) for deeper drill-down analysis.
+## 📌 Executive Summary
+This interactive Power BI dashboard provides end-to-end visibility into a *$99M* financial loan portfolio. Designed for executive decision-makers to evaluate credit health, track multi-year revenue growth, and analyze payment collection behaviors.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🎯 Key Performance Indicators (KPIs)
 
-- *Microsoft Power BI Desktop:* Interactive dashboard creation, layout design, and report publishing.
-- *Power Query:* Data cleaning, value replacement, type casting, and schema optimization.
-- *DAX (Data Analysis Expressions):* Custom KPI metrics and aggregation measures.
-- *Data Modeling:* Relationship management and star-schema principles.
+| Metric | Value | Financial Interpretation |
+| :--- | :---: | :--- |
+| *Total Disbursed* | *$99M* | Total principal deployed across all loan products |
+| *Total Payments* | *2K+* | Volume of processed repayment transactions |
+| *On-Time Repayment Rate* | *93.40%* | Healthy portfolio benchmark indicating minimal default risk |
 
 ---
 
-## 📁 Repository Structure
+## 📑 Detailed Financial & Portfolio Analysis
 
-```text
-├── Loan_Portfolio_Performance.pbix   # Complete Power BI project file
-├── loan_protfolio_performance.png     # Dashboard screenshot preview
-└── README.md                          # Project documentation
+### 1️⃣ Cash Flow & Liquidity Performance
+- *Total Inflow (Gross Revenue):* $141,446,085
+- *Operating Expenses (OPEX):* $53,919,842
+- *Net Operating Cash Flow:* $87,528,243 (Operating Cash Flow Margin ~61.9%)
+
+### 2️⃣ Repayment Behavior & Credit Risk
+- *On-Time Settlement Rate:* 93.40% ($93M disbursed settled punctually).
+- *Delinquency / Late Rate:* 6.60% ($7M under monitoring).
+- *Risk Assessment:* Portfolio reflects strong debtor discipline with low credit exposure risk.
+
+### 3️⃣ Portfolio Yield & Revenue Realization
+- *Total Capital Deployed:* $99,000,000 across diverse consumer loan categories.
+- *Channel Optimization:* Digital and direct banking transfers lead settlement volume, minimizing cash handling costs.
+
+---
+
+## 🛠️ Technical Highlights
+* *Data Transformation:* Data cleaning, type transformations, and category standardization using *Power Query*.
+* *Data Modeling & DAX:* Built aggregated measures for dynamic portfolio rate calculations.
+* *User Experience:* Custom-branded executive color palette, aligned visual hierarchy, and dynamic slicers.
+
+---
+
+<div align="center">
+<sub>Designed & Developed for Financial Business Intelligence Portfolio</sub>
+</div>
