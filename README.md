@@ -5,8 +5,7 @@
 
 <br/>
 
-<img width="1228" height="683" alt="Screenshot 2026-10-09 223218" src="https://github.com/user-attachments/assets/c06cf981-5a86-449d-a8db-498c1b7a3e98" />
-
+<img width="1234" height="681" alt="DASHBOARD Power BI" src="https://github.com/user-attachments/assets/0bcfdd3a-d2a8-4757-b76b-cac4b0c7ad8c" />
 
 <br/><br/>
 
